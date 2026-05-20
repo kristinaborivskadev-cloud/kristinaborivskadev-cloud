@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Kristina B
+          github_user_name: kristinaborivskadev-cloud
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
       - uses: crazy-max/ghaction-github-pages@v3
