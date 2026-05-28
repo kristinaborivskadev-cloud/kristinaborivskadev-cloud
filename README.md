@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=865AF5&center=true&vCenter=true&width=700&lines=Kristina+Borivska;Frontend+%26+Email+Developer;HubSpot+CMS+%7C+WordPress+%7C+Email+Development;Clean+code.+Pixel-perfect+layouts.;Turning+designs+into+reality" alt="Typing SVG" />
@@ -133,4 +132,3 @@ Platforms:
 [Email](mailto:kborivska@gmail.com)
 
 </div>
-```
