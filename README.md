@@ -133,7 +133,7 @@ Platforms:
 
 <p align="left">
   <a href="mailto:kborivska@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kborivska@gmail.com-865AF5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-kborivska@gmail.com-09A787?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
