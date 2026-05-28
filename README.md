@@ -107,8 +107,6 @@ Platforms:
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=kristinaborivskadev-cloud&hide_border=true&background=0d1117&ring=09A787&fire=e34c26&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1f6feb&sideLabels=1f6feb&dates=8b949e&stroke=09A787" alt="GitHub Streak" />
@@ -116,8 +114,6 @@ Platforms:
 </div>
 
 ---
-
-# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -127,7 +123,7 @@ Platforms:
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Contact Me
 
 <div align="center">
 
