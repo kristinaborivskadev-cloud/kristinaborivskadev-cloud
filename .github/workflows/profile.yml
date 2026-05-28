@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: kristinaborivskadev-cloud
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#09A787&color_dots=#B8F8DC,#4FF18A,#BDFF6C,#3CCF46,#99FFA0&color_background=#28582B
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#09A787&color_dots=#28582B,#4FF18A,#BDFF6C,#3CCF46,#99FFA0&color_background=#000000
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
